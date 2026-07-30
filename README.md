@@ -79,7 +79,8 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
 | Passport standard | Soulbound ERC-721 |
 | Stamp standard | Soulbound ERC-1155 |
 | Product | [byus.kr](https://byus.kr/?locale=en) |
-| Source | [ByUs-FanPassport/ByUs](https://github.com/ByUs-FanPassport/ByUs) |
+| Application source | [ByUs-FanPassport/ByUs](https://github.com/ByUs-FanPassport/ByUs) |
+| Contract source | [ByUs-FanPassport/ByUs-Contracts](https://github.com/ByUs-FanPassport/ByUs-Contracts) |
 
 ## Start here
 

@@ -18,9 +18,10 @@ icon: books
 ## Source
 
 - [ByUs product repository](https://github.com/ByUs-FanPassport/ByUs)
+- [ByUs contract repository](https://github.com/ByUs-FanPassport/ByUs-Contracts)
 - [ByUs documentation repository](https://github.com/ByUs-FanPassport/ByUs---GitBook)
-- [Fan Passport contract source](https://github.com/ByUs-FanPassport/ByUs/blob/main/contracts/src/ByUsPassport.sol)
-- [Live Stamp contract source](https://github.com/ByUs-FanPassport/ByUs/blob/main/contracts/src/ByUsStamp.sol)
+- [Fan Passport contract source](https://github.com/ByUs-FanPassport/ByUs-Contracts/blob/main/src/ByUsPassport.sol)
+- [Live Stamp contract source](https://github.com/ByUs-FanPassport/ByUs-Contracts/blob/main/src/ByUsStamp.sol)
 
 ## GIWA
 

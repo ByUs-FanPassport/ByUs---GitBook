@@ -7,6 +7,8 @@ icon: file-contract
 
 The addresses on this page were rechecked against the GIWA Sepolia RPC on July 31, 2026.
 
+The independently buildable and tested contract package is available at [ByUs-FanPassport/ByUs-Contracts](https://github.com/ByUs-FanPassport/ByUs-Contracts).
+
 ## Network
 
 | Property | Value |
