@@ -14,6 +14,7 @@ icon: books
 - [Fan verification](https://byus.kr/c/katseye/verify?locale=en)
 - [Benefits](https://byus.kr/benefits?locale=en)
 - [Login](https://byus.kr/login?locale=en)
+- [ByUs pitch deck (view only)](https://docs.google.com/presentation/d/10a9xoaRKJhAXzbBOguwKFM-wmOPlmRg9gy_EFRr0rss/edit?usp=sharing)
 
 ## Source
 
