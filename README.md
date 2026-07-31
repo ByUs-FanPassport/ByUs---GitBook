@@ -29,6 +29,8 @@ ByUs turns fan participation into a persistent, verifiable record. Fans discover
 A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passport and Stamp mint transactions are verifiable on GIWA Sepolia.
 {% endhint %}
 
+<!-- Text-only navigation cards: pitch-deck thumbnails are intentionally omitted. -->
+
 <table data-view="cards">
   <thead>
     <tr>
