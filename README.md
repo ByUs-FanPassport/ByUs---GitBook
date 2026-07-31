@@ -35,7 +35,6 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
       <th></th>
       <th></th>
       <th data-hidden data-card-target data-type="content-ref"></th>
-      <th data-hidden data-card-cover data-type="files"></th>
     </tr>
   </thead>
   <tbody>
@@ -43,19 +42,16 @@ A working ByUs MVP is live at [byus.kr](https://byus.kr/?locale=en). Fan Passpor
       <td><strong>Experience the product</strong></td>
       <td>Follow the fan journey from discovery and verification to LIVE participation and benefits.</td>
       <td><a href="getting-started/product-journey.md">getting-started/product-journey.md</a></td>
-      <td><a href=".gitbook/assets/product-journey.png">.gitbook/assets/product-journey.png</a></td>
     </tr>
     <tr>
       <td><strong>Understand the architecture</strong></td>
       <td>See how Privy, the ByUs BFF, Supabase, the mint worker, IPFS, and GIWA work together.</td>
       <td><a href="architecture/overview.md">architecture/overview.md</a></td>
-      <td><a href=".gitbook/assets/architecture-boundary.png">.gitbook/assets/architecture-boundary.png</a></td>
     </tr>
     <tr>
       <td><strong>Verify the GIWA proof</strong></td>
       <td>Inspect the deployed contracts and successful Passport and Stamp transactions.</td>
       <td><a href="giwa/network-and-contracts.md">giwa/network-and-contracts.md</a></td>
-      <td><a href=".gitbook/assets/product-onchain-proof.png">.gitbook/assets/product-onchain-proof.png</a></td>
     </tr>
   </tbody>
 </table>
